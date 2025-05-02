@@ -1,1 +1,1 @@
-# Simple-sales-dashboard-using-power-bi-
+# sales-dashboard-using-power-bi-
