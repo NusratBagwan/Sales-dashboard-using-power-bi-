@@ -1,9 +1,9 @@
 # sales-dashboard-using-power-bi- 
-# Summary of finding
+# Summary of findings
 •Title:Super store sales dashboard using power bi 
 • tools & sources:
-• Microsoft power bi for data cleaning and visualization.
 
+• Microsoft power bi for data cleaning and visualization.
 •super store dataset.xlsx dataset used for creating dashboard 
 
 •Insights from dashboard:
