@@ -1,4 +1,4 @@
-# sales-dashboard-using-power-bi- 
+# Sales-dashboard-using-power-bi- 
 # Summary of findings
 •Title:Super store sales dashboard using power bi 
 • tools & sources:
